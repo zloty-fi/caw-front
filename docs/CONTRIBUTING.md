@@ -11,7 +11,7 @@ Please take a look at each section :
 * [Javascript](JS.md)
 
 
-Don't forget to setup your IDE with `eslint` and `prettier`.
+Don't forget to setup your IDE with `eslint`
 
 Please add any other guidelines you think are essential or even improve the ones we have.
 
